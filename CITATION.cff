@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you refer to this work, please cite it as below."
+title: "Vox: Local Voice and Sound for Long-Form, Many-Character Films"
+type: software
+authors:
+  - given-names: Abrar
+    family-names: Al Sayem
+url: "https://github.com/iam-abrarx/-vox-sound"
+license-url: "https://github.com/iam-abrarx/-vox-sound/blob/main/LICENSE"
+version: "1.0"
+date-released: 2026-11-12
